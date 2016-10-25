@@ -4,9 +4,9 @@ _by simeon karakatsiotis_
 
 ---
 ## Git vs. GitHub
-Git and Github go hand in hand when coding. git does **NOT** require Github in order to work, git is a "_photographer_" of your code and then starts to `add` and `commit` or take a "_snapshot_" of your `code`. 
+Git and Github go hand in hand when coding. git does **NOT** require Github in order to work, git is a "_photographer_" of your code and takes "_snapshots_" of your `code` that has been put to the staging area when you `add` and `commit`
 
-Github is more of an extension of git. github is a cloud platform that creates a remote repository and saves your commits in the cloud for future use. 
+Github is more of an extension of git. Github is a cloud platform that creates a remote repository and saves your commits in the cloud for future use. 
 
 
 ---
